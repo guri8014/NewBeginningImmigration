@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/NewBeginningImmigration/static/css/main.3cb70edd.css",
-    "main.js": "/NewBeginningImmigration/static/js/main.2fdba831.js",
+    "main.css": "/NewBeginningImmigration/static/css/main.461053b7.css",
+    "main.js": "/NewBeginningImmigration/static/js/main.8c89b435.js",
     "static/js/787.48f324f7.chunk.js": "/NewBeginningImmigration/static/js/787.48f324f7.chunk.js",
     "static/media/bridge.jpg": "/NewBeginningImmigration/static/media/bridge.efd9af4659a424115bbd.jpg",
     "index.html": "/NewBeginningImmigration/index.html",
-    "main.3cb70edd.css.map": "/NewBeginningImmigration/static/css/main.3cb70edd.css.map",
-    "main.2fdba831.js.map": "/NewBeginningImmigration/static/js/main.2fdba831.js.map",
+    "main.461053b7.css.map": "/NewBeginningImmigration/static/css/main.461053b7.css.map",
+    "main.8c89b435.js.map": "/NewBeginningImmigration/static/js/main.8c89b435.js.map",
     "787.48f324f7.chunk.js.map": "/NewBeginningImmigration/static/js/787.48f324f7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3cb70edd.css",
-    "static/js/main.2fdba831.js"
+    "static/css/main.461053b7.css",
+    "static/js/main.8c89b435.js"
   ]
 }
