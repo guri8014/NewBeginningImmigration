@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/NewBeginningImmigration/static/css/main.11bf836f.css",
+    "main.css": "/NewBeginningImmigration/static/css/main.3c7a117e.css",
     "main.js": "/NewBeginningImmigration/static/js/main.0392978c.js",
     "static/js/787.48f324f7.chunk.js": "/NewBeginningImmigration/static/js/787.48f324f7.chunk.js",
     "static/media/bridge.jpg": "/NewBeginningImmigration/static/media/bridge.efd9af4659a424115bbd.jpg",
     "index.html": "/NewBeginningImmigration/index.html",
-    "main.11bf836f.css.map": "/NewBeginningImmigration/static/css/main.11bf836f.css.map",
+    "main.3c7a117e.css.map": "/NewBeginningImmigration/static/css/main.3c7a117e.css.map",
     "main.0392978c.js.map": "/NewBeginningImmigration/static/js/main.0392978c.js.map",
     "787.48f324f7.chunk.js.map": "/NewBeginningImmigration/static/js/787.48f324f7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.11bf836f.css",
+    "static/css/main.3c7a117e.css",
     "static/js/main.0392978c.js"
   ]
 }
